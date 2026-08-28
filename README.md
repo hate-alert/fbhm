@@ -3,7 +3,7 @@
 Accepted at **EMNLP 2026 Main** 🎉
 
 <p align="left">
-Authors: Paramananda Bhaskar*, Naquee Rizwan*, Daksh Jogchand, Saurabh Kumar Pandey, Animesh Mukherjee<br>(*) denotes equal contribution
+<b>Authors:</b> Paramananda Bhaskar*, Naquee Rizwan*, Daksh Jogchand, Saurabh Kumar Pandey, Animesh Mukherjee<br>(*) denotes equal contribution
 </p>
 
 <p align="center">
