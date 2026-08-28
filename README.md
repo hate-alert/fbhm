@@ -16,8 +16,12 @@ Left: suite of 5,000 FBHM memes spread across 25 functionalities. Each tile pres
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://arxiv.org/abs/2605.31349v1)
-[![FBHM Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/nrizwan/FBHM)
+<a href="https://arxiv.org/abs/2605.31349v1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B" alt="arXiv">
+</a>
+<a href="https://huggingface.co/datasets/nrizwan/FBHM" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🤗-Dataset-yellow" alt="FBHM Dataset">
+</a>
 
 </div>
 
