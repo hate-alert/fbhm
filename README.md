@@ -1,32 +1,3 @@
----
-license: mit
-modalities:
-- image
-- text
-task_categories:
-- image-classification
-- text-classification
-language:
-- en
-tags:
-- memes
-- hate-speech
-- toxicity
-- content-moderation
-- multimodal
-- image-text
-- vision-language
-- social-media
-- nlp
-- computer-vision
-- functional-testing
-- fbhm
-- lsv
-- evaluation
-- classification
-pretty_name: FBHM
----
-
 # FBHM: Functional Benchmarking and Steering of VLMs for Hateful Meme Detection
 
 Accepted at **EMNLP 2026 Main** 🎉
@@ -40,13 +11,13 @@ Authors: Paramananda Bhaskar*, Naquee Rizwan*, Daksh Jogchand, Saurabh Kumar Pan
 </p>
 
 <p align="center">
-Left: suite of 5,000 FBHM memes spread across 25 functionalities.<br>Each tile presents the functionality number, its description and the corresponding number of memes in that functionality.<br>Right: examples of constructing ten memes for ten target communities using one base image.
+Left: suite of 5,000 FBHM memes spread across 25 functionalities. Each tile presents the functionality number, its description and the corresponding number of memes in that functionality. Right: examples of constructing ten memes for ten target communities using one base image.
 </p>
 
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://arxiv.org/abs/2605.31349v1)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/hate-alert/fbhm)
+[![FBHM Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/nrizwan/FBHM)
 
 </div>
 
