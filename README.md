@@ -16,7 +16,7 @@ Left: suite of 5,000 FBHM memes spread across 25 functionalities. Each tile pres
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://arxiv.org/abs/2605.31349v1)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://arxiv.org/abs/2605.31349v2)
 [![FBHM Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/nrizwan/FBHM)
 
 </div>
